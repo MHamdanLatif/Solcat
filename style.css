@@ -136,7 +136,7 @@ body {
     margin-top: 300px;
     margin-bottom: 200px;
     text-align: right;
-    
+    margin-right: 40px;
 }
 
 
@@ -433,4 +433,5 @@ body {
         transform: translateX(0);
     }
 }
+
 

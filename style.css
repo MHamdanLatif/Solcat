@@ -148,7 +148,7 @@ body {
     height: 90%;
     max-height: 300px;
     margin-left: 50px;
-    width: auto;
+    width: 150px;
     margin-right: 150px;
     object-fit: cover;
     border-radius: 24px;
@@ -435,4 +435,5 @@ body {
         transform: translateX(0);
     }
 }
+
 

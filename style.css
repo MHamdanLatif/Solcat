@@ -148,7 +148,7 @@ body {
     height: 90%;
     max-height: 300px;
     margin-left: 50px;
-    width: 150px;
+    width: auto;
     margin-right: 150px;
     object-fit: cover;
     border-radius: 24px;
@@ -159,7 +159,7 @@ body {
 
 
 .Heading-text-container {
-    margin-left: 50px;
+    margin-left: 100px;
     margin-top: 200px;
     text-align: left;
 }
@@ -218,9 +218,9 @@ body {
     background: #101a36;
     border-radius: 18px;
     margin: auto auto auto auto;
-    max-width: 1400px;
+    max-width: 90%;
     padding: 60px 24px 80px 24px;
-    box-shadow: 0 4px 24px rgba(0,0,0,0.25);
+    box-shadow: 0 2px 12px #ffe066d8;
 }
 
 .how-to-buy-title {
@@ -298,7 +298,8 @@ body {
     width: auto;
     border-radius: 50%;
     animation: logoFloat 2.5s ease-in-out infinite;
-    box-shadow: 0 4px 24px rgba(0,0,0,0.12);
+    
+    box-shadow: 0 2px 12px #ffe066;
 }
 
 @keyframes logoFloat {
@@ -435,5 +436,4 @@ body {
         transform: translateX(0);
     }
 }
-
 
